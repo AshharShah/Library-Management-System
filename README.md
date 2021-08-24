@@ -6,3 +6,4 @@ Here is how it works:
 2) You can not assign the number 0 to any Book, Student or List as it refers to an empty data member.
 3) Adding a book to a list does not add the book to the library but confines it to the list.
 4) A Student can be assigned a maximum of 5 books incase he wants another book he would have to return one of his previously owned books.
+5) You can add as many books, students or lists as you want as the program is fully based on dynamic memory allocation using the concept of linked lists.
