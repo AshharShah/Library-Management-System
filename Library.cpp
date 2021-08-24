@@ -2,9 +2,6 @@
 #include <string>
 using namespace std;
 
-// CS112 Project, Syed Muhammad Ashhar Shah, 2020478, Section C
-// This Project Is Based on the Orignal PDF with some minor Additions that were added in the updated PDF
-
 // our function which will tell the user what is the program and how it works
 void welcome_message(){
 	cout << "\tWELCOME TO LIBRARY MANAGEMENT SYSTEM!" << endl;
@@ -78,8 +75,7 @@ void display_closing_msg(){
 	cout << "Thank You for using the Library Management System!" << endl;
 	cout << endl;
 	cout << "\tMADE BY " << endl;
-	cout << "Name: Syed Muhammad Ashhar Shah" << endl;
-	cout << "Registration Number: 2020478" << endl;
+	cout << "Ashhar Shah" << endl;
 }
 
 // our structure of CBookNode which will store variable of the Book Class in order to Add or Delete Students
