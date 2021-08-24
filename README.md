@@ -1,5 +1,5 @@
 # 🔵Library Managenment System🔵
-🔸This is a project I was given in my 2nd semester at university which handled information of students and books and did various processes concerning it.
+🔸This is a project I was given in my 2nd semester at my University, this program handles information of students and books and does various processes concerning it.
 
 🔹Here is how it works:
 1) There are 4 things in the main menus from which you can choose(Student, List, Books, Library) and hence move on to the sub-menus regarding your selection which gives you a list of actions you can perform.
